@@ -1,0 +1,21 @@
+{
+  "name": "@blueseas/cordova-plugin-blue-get-mac",
+  "version": "1.0.3",
+  "description": "",
+  "author": "winai <winai@blueseas.co.th>",
+  "cordova": {
+    "id": "cordova-plugin-blue-get-mac",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "folder",
+    "url": "/Users/cracker/Desktop/BLUESEAS/MODULE/cordova-plugin-blue-get-mac"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "license": "ISC"
+}
