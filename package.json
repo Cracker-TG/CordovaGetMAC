@@ -10,8 +10,8 @@
     ]
   },
   "repository": {
-    "type": "folder",
-    "url": "/Users/cracker/Desktop/BLUESEAS/MODULE/cordova-plugin-blue-get-mac"
+    "type": "git",
+    "url": "https://github.com/Cracker-TG/CordovaGetMAC"
   },
   "keywords": [
     "ecosystem:cordova",
